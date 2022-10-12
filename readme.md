@@ -1,3 +1,6 @@
 # Curso IEE
-# Grupo Paul Scotti
+# Grupo Paul Scotti - Milano Toledo
+
+-Descripción de archivos en repositorio-
+
 
